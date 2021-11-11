@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Engine Digonestic",
+    "price": 2000,
+    "time": 2,
+    "discription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam iure soluta vitae nesciunt autem recusandae laborum voluptatibus dolorem voluptas facilis, distinctio consequuntur magni expedita aut, ipsa inventore deserunt ipsum! Dolores?",
+    "img": "https://i.ibb.co/xHShN3q/pic1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Replace Tire",
+    "price": 1000,
+    "time": 2,
+    "discription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam iure soluta vitae nesciunt autem recusandae laborum voluptatibus dolorem voluptas facilis, distinctio consequuntur magni expedita aut, ipsa inventore deserunt ipsum! Dolores?",
+    "img": "https://i.ibb.co/Qvc66KW/pic2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Re Fuel or Oil Changing",
+    "price":150,
+    "time": 1,
+    "discription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam iure soluta vitae nesciunt autem recusandae laborum voluptatibus dolorem voluptas facilis, distinctio consequuntur magni expedita aut, ipsa inventore deserunt ipsum! Dolores?",
+    "img": " https://i.ibb.co/fHFYkQN/pic3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Break Reparing",
+    "price": 1500,
+    "time": 1.5,
+    "discription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam iure soluta vitae nesciunt autem recusandae laborum voluptatibus dolorem voluptas facilis, distinctio consequuntur magni expedita aut, ipsa inventore deserunt ipsum! Dolores?",
+    "img": "https://i.ibb.co/gTZXwjC/pic4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Wash & Glassing",
+    "price": 2000,
+    "time": 5,
+    "discription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam iure soluta vitae nesciunt autem recusandae laborum voluptatibus dolorem voluptas facilis, distinctio consequuntur magni expedita aut, ipsa inventore deserunt ipsum! Dolores?",
+    "img": "https://i.ibb.co/nDyHQ1d/pic5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Extra Service Facilities",
+    "price": 1000,
+    "time": 1,
+    "discription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam iure soluta vitae nesciunt autem recusandae laborum voluptatibus dolorem voluptas facilis, distinctio consequuntur magni expedita aut, ipsa inventore deserunt ipsum! Dolores?",
+    "img": "https://i.ibb.co/b29FNRP/pic6.jpg"
+  }
+]
