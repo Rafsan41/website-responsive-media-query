@@ -9,12 +9,6 @@ import Expert from '../Expert/Expert';
 
 
 
-// https://i.ibb.co/6nRfKLH/buoyant-successful-handyman-posing-against-white-wall-273609-20080.jpg
-// https://i.ibb.co/0FpHJP0/close-up-mechanic-showing-ok-gesture-with-his-thumb-while-holding-wrench-146671-19719.jpg
-// https://i.ibb.co/KNhZGfS/repair-man-making-car-service-1303-26861.jpg
-// https://i.ibb.co/Pw50bcV/mechanic-holding-digital-tablet-1170-1552.jpg
-// https://i.ibb.co/nMhkJDW/repair-man-making-car-service-1303-26867.jpg
-// https://i.ibb.co/xm1QJjn/smiling-mechanic-with-arms-crossed-spanner-1170-1699.jpg
 
 const experts = [
     {
@@ -50,7 +44,7 @@ const experts = [
 ]
 const Experts = () => {
     return (
-        <div className="container">
+        <div className="container" id="experts">
             <h2 className='text-primary m-5'>
                 Our Experts
             </h2>
@@ -58,9 +52,7 @@ const Experts = () => {
                 {
                     experts.map(expert => <Expert
                         key={expert.name}
-                        expert={expert}
-                    
-                    ></Expert>)
+                        expert={expert}></Expert>)
                 }
             </div>
         </div>
