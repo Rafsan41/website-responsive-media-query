@@ -5,7 +5,7 @@ import banner2 from '../../../Images/Banner/banner2.jpg'
 import banner3 from '../../../Images/Banner/banner3.jpg'
 const Banner = () => {
     return (
-        <>
+        <div> 
             <Carousel>
   <Carousel.Item>
                     <img
@@ -50,7 +50,7 @@ const Banner = () => {
   </Carousel.Item>
 </Carousel>
             
-        </>
+        </div>
     );
 };
 
